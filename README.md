@@ -150,7 +150,7 @@ Ce projet regroupe une série de travaux pratiques autour de l’**apprentissage
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 * **Python**
 * **NumPy**, **SciPy**
